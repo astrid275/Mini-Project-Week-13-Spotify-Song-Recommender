@@ -78,7 +78,7 @@ def recommend_song():
         for id in sample["track_id"]: 
             display(play_song(id)) 
 
-          <img width="740" height="748" alt="image" src="https://github.com/user-attachments/assets/72e6b3d2-ed61-4a59-b4cf-e909d7f1543c" />
+<img width="740" height="748" alt="image" src="https://github.com/user-attachments/assets/72e6b3d2-ed61-4a59-b4cf-e909d7f1543c" />
 
 
 # 6. Streamlit! 
